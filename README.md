@@ -1,1 +1,1 @@
-![app screenshot](screenshot.txt)
+![app screenshot](screenshot.png)
